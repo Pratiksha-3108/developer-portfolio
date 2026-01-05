@@ -6495,7 +6495,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lj"
+        "url": "https://github.com/sponsors/ljrb"
       }
     },
     "node_modules/typed-array-byte-offset": {
@@ -6517,7 +6517,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lb"
+        "url": "https://github.com/sponsors/ljrb"
       }
     },
     "node_modules/typed-array-length": {
@@ -6701,7 +6701,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lb"
+        "url": "https://github.com/sponsors/ljrb"
       }
     },
     "node_modules/which-collection": {
@@ -6720,7 +6720,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/hb"
+        "url": "https://github.com/sponsors/ljhb"
       }
     },
     "node_modules/which-typed-array": {

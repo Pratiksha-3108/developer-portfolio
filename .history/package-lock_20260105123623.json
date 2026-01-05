@@ -6294,7 +6294,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/harb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/string.prototype.trimstart": {
@@ -6312,7 +6312,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/ljrb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/strip-bom": {
@@ -6335,7 +6335,7 @@
         "node": ">=8"
       },
       "funding": {
-        "url": "https://github.com/sponsors/sindsorhus"
+        "url": "https://github.com/sponsors/sindresorhus"
       }
     },
     "node_modules/styled-jsx": {
@@ -6382,7 +6382,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/larb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/tailwindcss": {
@@ -6495,7 +6495,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lj"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/typed-array-byte-offset": {
@@ -6517,7 +6517,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/typed-array-length": {
@@ -6538,7 +6538,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/larb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/typescript": {
@@ -6596,7 +6596,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/ljrb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/update-browserslist-db": {
@@ -6615,7 +6615,7 @@
         },
         {
           "type": "github",
-          "url": "https://github.com/sponsors/"
+          "url": "https://github.com/sponsors/ai"
         }
       ],
       "license": "MIT",
@@ -6673,7 +6673,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/ljhb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/which-builtin-type": {
@@ -6701,7 +6701,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/lb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/which-collection": {
@@ -6720,7 +6720,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/hb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/which-typed-array": {
@@ -6742,7 +6742,7 @@
         "node": ">= 0.4"
       },
       "funding": {
-        "url": "https://github.com/sponsors/ljrb"
+        "url": "https://github.com/sponsors/ljharb"
       }
     },
     "node_modules/yallist": {
@@ -6771,7 +6771,7 @@
       "dev": true,
       "license": "MIT",
       "funding": {
-        "url": "https://github.com/sponsors/coliks"
+        "url": "https://github.com/sponsors/colinhacks"
       }
     },
     "node_modules/zod-validation-error": {
