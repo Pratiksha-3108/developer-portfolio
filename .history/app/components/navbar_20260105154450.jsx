@@ -18,7 +18,7 @@ function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full z-50 bg-[#0d1224]/90 backdrop-blur-md border-b border-[#25213b]">
       {/* Top Bar */}
-      <div className="flex items-center justify-between px-4 py-4 md:py-5 max-w-7xl mx-auto">
+      <div className="flex items-center justify-between px-4 py-4 md:py-5">
         {/* Logo / Name */}
         <Link href="/" className="text-[#16f2b3] text-2xl md:text-3xl font-bold">
           PRATIKSHA JADHAV
@@ -50,7 +50,7 @@ function Navbar() {
       {/* Mobile Menu */}
       <div
         className={`md:hidden overflow-hidden transition-all duration-300 ease-out ${
-          open ? "max-h-screen opacity-100" : "max-h-0 opacity-0"
+          open ? "max-h-screen" : "max-h-0"
         }`}
       >
         <ul className="flex flex-col items-start px-4 pb-4 bg-[#0d1224]">
